@@ -18,3 +18,16 @@ This project implements a UDP-based file transfer system, allowing a client to r
 1. **Run the Server**:
    ```bash
    python server.py "127.1" 15000
+2. **Run the Client:
+   ```bash
+   python client.py SmallFile.png
+   
+Replace SmallFile.png with MediumFile.jpg or LargFile.jpg for different files.
+
+3. **Test Packet Handling:
+   ```bash
+   python test.py
+   
+## Requirements
+ **Python 3.x
+
