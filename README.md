@@ -22,7 +22,7 @@ This project implements a UDP-based file transfer system, allowing a client to r
    ```bash
    python client.py SmallFile.png
    
-Replace SmallFile.png with MediumFile.jpg or LargFile.jpg for different files.
+  Replace SmallFile.png with MediumFile.jpg or LargFile.jpg for different files.
 
 3. **Test Packet Handling**:
    ```bash
