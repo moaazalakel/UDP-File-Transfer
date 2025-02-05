@@ -1,0 +1,5 @@
+python server.py "127.1" 15000
+
+python client.py FileName
+
+FileName = "SmallFile.png" or "MediumFile.jpg" or "LargFile.jpg"
